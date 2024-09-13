@@ -1,9 +1,4 @@
 # AI-CHATBOX
-Certainly! Here’s a detailed description for your `README.md` file, tailored to your Django-based chatbot project. You can use this as a starting point and adjust it as needed to fit the specifics of your project.
-
----
-
-# AI Chatbox
 
 ## Description
 

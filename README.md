@@ -1,8 +1,8 @@
-# AI-CHATBOX
+# AI-CHATBOT
 
 ## Description
 
-**AI Chatbox** is an interactive web application built using Django and integrated with advanced conversational AI models from the Hugging Face Transformers library. This project serves as a practical example of how to deploy a machine learning model in a web application to create a chatbot capable of engaging in dynamic and coherent conversations with users.
+**AI Chatbot** is an interactive web application built using Django and integrated with advanced conversational AI models from the Hugging Face Transformers library. This project serves as a practical example of how to deploy a machine learning model in a web application to create a chatbot capable of engaging in dynamic and coherent conversations with users.
 
 The chatbot leverages the power of state-of-the-art language models to provide intelligent and contextually relevant responses. The project includes a simple and user-friendly web interface that allows users to interact with the chatbot, making it easy to integrate conversational AI into various applications.
 
